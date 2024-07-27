@@ -1,0 +1,27 @@
+.support-section {
+    background-color: #e0f2e9; /* Jasnozielony kolor tła */
+    color: #2e7d32; /* Ciemnozielony kolor tekstu */
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px 0;
+}
+
+.support-section .container {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.support-section h2 {
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+
+.support-section p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+.tipply-widget {
+    margin: 20px 0;
+}
