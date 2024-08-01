@@ -23,12 +23,13 @@
     text-transform: uppercase;
     text-align: center;
     margin-bottom: 10px;
+    color: white;
   }
 
   &__text {
-    font-size: 14px;
+    font-size: 18px;
     line-height: 1.7;
-    color: $tertiaryColorGrey;
+    color: white;
   }
 }
 

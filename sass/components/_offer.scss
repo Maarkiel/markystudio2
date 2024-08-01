@@ -1,6 +1,9 @@
 .offer {
-  display: none;
   text-align: center;
+  background-color: rgba(0, 0, 0, .4705882353);
+  padding: 60px 0;
+  margin-bottom: 0px;
+  color: #fff;
 
   &__list {
     display: flex;
