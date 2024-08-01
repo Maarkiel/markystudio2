@@ -40,7 +40,7 @@
   }
 
   &__icon {
-    fill: $secondaryColorBlack;
+    fill: rgb(255, 255, 255);
     cursor: pointer;
     transition-property: fill;
     transition-duration: $transitionDurationDefault;
@@ -92,7 +92,7 @@
   }
 
   &__link:hover {
-    color: $primaryColor;
+    color: white;
   }
 
   &__tel {
