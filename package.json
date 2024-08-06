@@ -1,0 +1,16 @@
+{
+  "name": "markystudio-main",
+  "version": "1.0.0",
+  "description": "https://maarkiel.github.io/markystudio2/ This project is a part of my portfolio, focusing on responsive web design and advanced CSS techniques.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
